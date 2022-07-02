@@ -1,6 +1,5 @@
-### 私の偏差値
+### [私の偏差値](https://play.google.com/store/apps/details?id=com.Saku.watashinohensachi)
 #### English Name : My Z score
-[link](https://play.google.com/store/apps/details?id=com.Saku.watashinohensachi)
 
 ##### アプリ概要
 他人とではなく、過去の自分と勝負する事によって自分の成長を存分に味わえます。
