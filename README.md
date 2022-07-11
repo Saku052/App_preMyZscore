@@ -7,5 +7,5 @@
 このアプリのライバルは過去の自分です。数検や漢検等の資格勉強をしている今の君が明日の君のライバルになります。その日十分に集中して何かを学ぶ事が出来たなら、未来の君はより賢い君になっているはずです。結果的に、君は常にランキング上位に食い込む事ができ、モチベーションの維持も簡単に出来ます。
 
 ##### app discription
-Instead of compareing yourself with others, why dont you just compare with past self. 
+Instead of comparing yourself with others, why don't you just compare with past self. 
 When you just cant stop comparing yourself with others simply install this app and force yourself to look at your past score and check out your Z score.
